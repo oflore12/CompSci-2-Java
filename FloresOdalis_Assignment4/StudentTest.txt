@@ -1,0 +1,4 @@
+CMSC140 12345 3 CS104 CompFirst CompLast
+CMSC203 12344 4 CS332 Science Teacher
+ENGL102 34567 5 HM303 English Teacher
+SOCY100 45678 2 HM100 Socilogy Teacher
